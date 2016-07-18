@@ -1,0 +1,6 @@
+{
+    "AUTH0_DOMAIN": "abx.au.auth0.com",
+    "AUTH0_CLIENT_ID": "Y5aFtIWPIIC5b8osBq3PYWmoY7IzR1A2",
+    "PORT": 2500,
+    "ENV": "production"
+}
